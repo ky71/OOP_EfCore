@@ -1,0 +1,25 @@
+﻿####################
+# EF Core Migrations (Sizin isteğiniz)
+####################
+Migrations/
+
+####################
+# Visual Studio ve Derleme Sonuçları
+####################
+# Bu klasörler derleme sonuçlarını içerir ve Github'a GÖNDERİLMEMELİDİR.
+[Bb]in/
+[Oo]bj/
+
+# Kullanıcıya özel ayarlar dosyaları (herkesin kendi ayarı farklıdır)
+*.user
+*.suo
+
+# Paketler klasörü (NuGet tarafından yönetilir)
+packages/
+
+# Test sonuçları
+TestResults/
+
+# .NET core/EF Core tarafından oluşturulan geçici dosyalar
+*.tmp
+*.log
