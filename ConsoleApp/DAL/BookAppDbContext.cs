@@ -48,6 +48,8 @@ namespace ConsoleApp.DAL
         }
 
     }
+    //veri tabanından direk northwind gibi hazır classları direk hiç upraşmadan oluşturman için
+    //PM ye yaz: Scaffold-DbContex -Connection "Data Source=(LocalDB)\\MSSQLLocalDB;Initial Catalog=BookAppDb;" -Provider "Microsoft.EntityFrameworkCore.SqlServer" -OutputDir "DAL\Entities"     
 
-    
+
 }
